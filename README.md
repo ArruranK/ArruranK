@@ -1,6 +1,11 @@
 ### Hi there👋
 ### Welcome to my github page!
 
+### 🌱 I’m currently learning backend and game development!
+### 🔭 I’m currently working on an mobile game using Unreal Engine and C++
+
+### 😄 Check out my personal website: https://arrurank.github.io/portfolio/
+
 <!--
 **ArruranK/ArruranK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
