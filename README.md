@@ -1,8 +1,7 @@
 ### Hi there👋
 ### Welcome to my github page!
 
-### 🌱 I’m currently learning backend and game development!
-### 🔭 I’m currently working on an mobile game using Unreal Engine and C++
+### 🌱 I’m currently learning backend programming and game development!
 
 ### 😄 Check out my personal website: https://arrurank.github.io/portfolio/
 
