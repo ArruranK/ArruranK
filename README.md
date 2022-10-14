@@ -1,7 +1,6 @@
 ### Hi there👋
 ### Welcome to my github page!
 
-### 🌱 I’m currently learning backend programming and game development!
 
 ### 😄 Check out my personal website: https://arrurank.github.io/portfolio/
 
