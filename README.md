@@ -12,3 +12,10 @@
        alt="snake" /></a>
 </div>
 
+<p>Welcome to my Github! <br/>
+I'm a <b>Computer Science student at McMaster University</b> in my third year. I am actively involved with McMaster's Computer Science Society as the Director of Finances and I've previously been an executive member of Deltahacks, our University's yearly hackathon which hosts over 800+ students!</p>
+
+<p>
+I'm currently an intern with the Skills Network team @ <b><a href="https://www.ibm.com/ca-en" target="_blank">IBM</a></b>, </p>
+
+<p>Some of my interests and personal pursuits include web development, game development, computer graphics, and machine learning. Feel free to connect with me <a href="https://www.linkedin.com/in/arrurank/" target="_blank">on LinkedIn!</a></p>
