@@ -11,7 +11,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
+<p>
 I'm a third year <b>Computer Science student at McMaster University</b>. I am actively involved with McMaster's Computer Science Society as the Director of Finances and I've previously been an executive member of Deltahacks, our University's yearly hackathon which hosts over 800+ students!</p>
 
 <p>
