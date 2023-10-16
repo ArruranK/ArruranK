@@ -15,6 +15,6 @@
 I'm a third year <b>Computer Science student at McMaster University</b>. I am actively involved with McMaster's Computer Science Society as the Director of Finances and I've previously been an executive member of Deltahacks, our University's yearly hackathon which hosts over 800+ students!</p>
 
 <p>
-I'm currently an intern with the Skills Network team @ <b><a href="https://www.ibm.com/ca-en" target="_blank">IBM</a></b>, </p>
+I'm currently an intern with the Skills Network team @ <b><a href="https://www.ibm.com/ca-en" target="_blank">IBM</a></b>, where I work on full stack applications and tools designed to improve course authoring and learning.</p>
 
 <p>Some of my interests and personal pursuits include web development, game development, computer graphics, and machine learning. Feel free to connect with me <a href="https://www.linkedin.com/in/arrurank/" target="_blank">on LinkedIn!</a></p>
