@@ -8,7 +8,7 @@
 <!--- snake -->
 <div align="center">
   <a href="https://arrurank.github.io/portfolio/">
-    <img  style="pointer-events: none;" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    <img  style="pointer-events: none;" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
          alt="snake" />
   </a>
 </div>
