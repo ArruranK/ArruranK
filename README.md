@@ -23,3 +23,5 @@ I recently completed an internship with the Skills Network team @ <b><a href="ht
 I'm currently working at Dayforce as a software developer intern on the Platform Globalization team</p>
 
 <p>Some of my interests and personal pursuits include web development, game development, and machine learning. Feel free to connect with me <a href="https://www.linkedin.com/in/arrurank/" target="_blank">on LinkedIn!</a></p>
+
+Check out my <a href="https://arrurank.github.io/portfolio/" target="_blank">website!</a>
