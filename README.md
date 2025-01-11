@@ -20,7 +20,7 @@ I'm a <b>Computer Science student at McMaster University</b>. I am actively invo
 I recently completed an internship with the Skills Network team @ <b><a href="https://www.ibm.com/ca-en" target="_blank">IBM</a></b>, contributing to the development of full-stack applications and tools aimed at enhancing online learning and course authoring.</p>
 
 <p>
-I'm currently working at Shopify as a software engineer intern</p>
+I'm currently working at <b><a href="https://www.shopify.com/ca" target="_blank">Shopify</a></b> as a software engineer intern</p>
 
 <p>Some of my interests and personal pursuits include web development, game development, and machine learning. Feel free to connect with me <a href="https://www.linkedin.com/in/arrurank/" target="_blank">on LinkedIn!</a></p>
 
