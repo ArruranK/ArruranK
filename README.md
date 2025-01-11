@@ -14,7 +14,7 @@
 </div>
 
 <p>
-I'm a third year <b>Computer Science student at McMaster University</b>. I am actively involved with McMaster's Computer Science Society as the Director of Finances and I've previously been an executive member of Deltahacks, our University's yearly hackathon which hosts over 800+ students!</p>
+I'm a <b>Computer Science student at McMaster University</b>. I am actively involved with McMaster's Computer Science Society as the Director of Finances and I've previously been an executive member of Deltahacks, our University's yearly hackathon which hosts over 800+ students!</p>
 
 <p>
 I recently completed an internship with the Skills Network team @ <b><a href="https://www.ibm.com/ca-en" target="_blank">IBM</a></b>, contributing to the development of full-stack applications and tools aimed at enhancing online learning and course authoring.</p>
