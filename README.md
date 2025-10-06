@@ -14,9 +14,6 @@
 </div>
 
 <p>
-I'm a <b>Computer Science student at McMaster University</b>. I am actively involved with McMaster's Computer Science Society as the Director of Finances and I've previously been an executive member of Deltahacks, our University's yearly hackathon which hosts over 800+ students!</p>
-
-<p>
 I'm currently working at <b><a href="https://www.shopify.com/ca" target="_blank">Shopify</a></b> as a software engineer </p>
 
 <p>
